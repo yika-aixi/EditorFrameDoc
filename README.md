@@ -12,3 +12,12 @@ Zh:
 - [1.自定义Localization解析和创建](Doc/Zh/1.自定义Localization解析和创建.md)
 - [2.自定义Config解析和创建](Doc/Zh/2.自定义Config解析和创建.md)
 - [3.一些工具类的使用](Doc/Zh/3.一些工具类的使用.md)
+
+Editor:
+En:
+- [Config Tools](Doc/En/Editor/1.ConfigTools.md)
+- [Localization Tools](Doc/En/Editor/2.LocalizationTool.md)
+
+Zh:
+- [Config Tools](Doc/Zh/Editor/1.ConfigTools.md)
+- [Localization Tools](Doc/Zh/Editor/2.LocalizationTool.md)
