@@ -18,6 +18,7 @@ Editor:
 En:
 - [Config Tools](Doc/En/Editor/1.ConfigTools.md)
 - [Localization Tools](Doc/En/Editor/2.LocalizationTool.md)
+- > [2019.0.4.1](blob/2019.0.4.1/Doc/En/Editor/2.LocalizationTool.md)
 
 Zh:
 - [Config Tools](Doc/Zh/Editor/1.ConfigTools.md)
