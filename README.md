@@ -1,6 +1,14 @@
 # EditorFrameDoc
 Editor Frame Document
 
+Update Description:
+- [2019.1](Doc/En/Update%20Doc/2019.1.md)
+
+
+升级说明:
+- [2019.1](Doc/Zh/Update%20Doc/2019.1.md)
+
+
 En:
 - [0.How to make existing Editor Window Localization support](Doc/En/0.How%20to%20make%20existing%20Editor%20Window%20Localization%20support.md)
 - [1.Customized Localization parsing and creation](Doc/En/1.Customized%20Localization%20parsing%20and%20creation.md)
