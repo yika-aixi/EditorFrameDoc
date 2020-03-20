@@ -32,9 +32,9 @@ En:
 - [Config Tools](Doc/En/Editor/1.ConfigTools.md)
 - [Localization Tools](Doc/En/Editor/2.LocalizationTool.md)
 - > [2019.0.4.1](https://github.com/yika-aixi/EditorFrameDoc/blob/2019.0.4.1/Doc/En/Editor/2.LocalizationTool.md)
-- [UnityEditorIconBrower](https://github.com/yika-aixi/EditorFrameDoc/blob/2020.0.1/Doc/En/3.UnityEditorIconBrower.md)
+- [UnityEditorIconBrower](https://github.com/yika-aixi/EditorFrameDoc/blob/2020.0.1/Doc/En/Editor/3.UnityEditorIconBrower.md)
 
 Zh:
 - [Config Tools](Doc/Zh/Editor/1.ConfigTools.md)
 - [Localization Tools](Doc/Zh/Editor/2.LocalizationTool.md)
-- [UnityEditorIconBrower](https://github.com/yika-aixi/EditorFrameDoc/blob/2020.0.1/Doc/Zh/3.UnityEditorIconBrower.md)
+- [UnityEditorIconBrower](https://github.com/yika-aixi/EditorFrameDoc/blob/2020.0.1/Doc/Zh/Editor/3.UnityEditorIconBrower.md)
