@@ -1,6 +1,14 @@
 # EditorFrameDoc
 Editor Frame Document
 
+Update Description:
+- [2019.1](Doc/En/Update%20Doc/2019.1.md)
+
+
+升级说明:
+- [2019.1](Doc/Zh/Update%20Doc/2019.1.md)
+
+
 En:
 - [0.How to make existing Editor Window Localization support](Doc/En/0.How%20to%20make%20existing%20Editor%20Window%20Localization%20support.md)
 - [1.Customized Localization parsing and creation](Doc/En/1.Customized%20Localization%20parsing%20and%20creation.md)
@@ -18,6 +26,7 @@ Editor:
 En:
 - [Config Tools](Doc/En/Editor/1.ConfigTools.md)
 - [Localization Tools](Doc/En/Editor/2.LocalizationTool.md)
+- > [2019.0.4.1](https://github.com/yika-aixi/EditorFrameDoc/blob/2019.0.4.1/Doc/En/Editor/2.LocalizationTool.md)
 
 Zh:
 - [Config Tools](Doc/Zh/Editor/1.ConfigTools.md)
